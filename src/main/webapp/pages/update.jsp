@@ -36,7 +36,7 @@
                 <div align="left">
                     <label class="form-label"><fmt:message key="entity.course"/></label>
                     <input type="text" class="form-control" placeholder=
-                    <fmt:message key="entity.course"/> value="${subject.title}" name="course"
+                    <fmt:message key="entity.course"/> value="${subject.courses}" name="course"
                            id="course" required>
                 </div>
                 <div align="left">
